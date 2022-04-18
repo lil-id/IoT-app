@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "832675702035",
+    "project_id": "belajar-iot-1126f",
+    "storage_bucket": "belajar-iot-1126f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832675702035:android:2b28acfb76bb6e0910e6e6",
+        "android_client_info": {
+          "package_name": "com.master.belajariot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832675702035-vrp4ak2ggh475f6lr72r014jeovfdnem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0D98J_C-JoZHLNZlOUVdBlM7TNRLJBoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832675702035-vrp4ak2ggh475f6lr72r014jeovfdnem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

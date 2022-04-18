@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Belajar IoT</string>
+    <string name="aplikasi_iot">Menu</string>
+    <string name="suhu">Suhu</string>
+    <string name="lampu">Lampu</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="kontrol">Kontrol</string>
+    <string name="kelembaban">Kelembapan</string>
+    <string name="monitoring">Monitoring</string>
+    <string name="derajat">24</string>
+</resources>
