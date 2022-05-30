@@ -1,4 +1,4 @@
-# IoT-app
+# IoT-App
 Aplikasi Sederhana Pengendali Lampu LED dan Pemantau Suhu Serta Kelembapan
 
 ### Light Mode Off
